@@ -16,6 +16,24 @@ The project integrates:
 - AI Robotics Architecture
 - Ethical AI Governance
 
+
+It contains:
+
+Structured research docs
+
+AI system design folders
+
+Simulation skeleton
+
+FastAPI backend starter
+
+React frontend starter
+
+Grant proposal draft
+
+Governance framework
+
+Production blueprint outline
 ---
 
 ## Part 1 – Why Are Belongings Donated After Death?

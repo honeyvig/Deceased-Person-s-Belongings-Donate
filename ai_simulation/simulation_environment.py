@@ -1,0 +1,1 @@
+print('Simulation environment placeholder')
